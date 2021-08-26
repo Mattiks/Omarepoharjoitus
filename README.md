@@ -1,0 +1,2 @@
+# Omarepoharjoitus
+Harjoitus repositoryn luomisesta
